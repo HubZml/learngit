@@ -1,2 +1,2 @@
-Git is a software.
-This is my firsttime to use it.
+Git is a distribute software.
+This is my firstime to use it.
