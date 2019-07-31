@@ -4,4 +4,4 @@ I want to eat meal.
 Update update.
 This is the first time to use github
 This is use vi model to update
-Creat a new branch .
+Creat a new branch  is quick AND simple.
